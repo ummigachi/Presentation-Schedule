@@ -13,5 +13,5 @@ Please update your presentation information with the following format.
 |2024-04-09  | Devere | - | - |
 |2024-04-16  | Gabriel   | - | - | 
 |2024-04-23  | Darrel  | - | - |
-|2024-04-30  | Sam LaPree | - | - | 
-|2024-05-07  |       | - | - |
+|2024-04-30  | - | - | - | 
+|2024-05-07  |   -    | - | - |
