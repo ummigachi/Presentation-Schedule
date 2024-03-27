@@ -1,29 +1,17 @@
 # Group Seminar - Spring 2024
 
-<code style="color : red">Date: Jan 08 to April 31</code>
+<code style="color : red">Date: April 02 to May 7</code>
 
-<code style="color : red">Time: 12:00 PM to 2:00 PM, Monday</code>
+<code style="color : red">Time: 3:00 PM to 3:30 PM, Tuesday</code>
 
-<code style="color : red">Location: Room 755, 25 Park Place</code>
+<code style="color : red">Location: Online, Webex</code>
 Please update your presentation information with the following format.
 
 | Date  | Presenter  | Topic  | Slides |
 | ------------- | ------------- | ------------- | ------------- | 
-|~~2024-01-08~~  | Kaiyang Li   | Graph Matching - RL | - | - | - | - |
-|~~2024-01-15~~  | Holiday: Martin Luther King Jr. Day | - | - | - | - | - |
-|~~2024-01-22~~  | Chenyu Wang  | Job Talk | - | - | - | - |
-|~~2024-01-29~~  | Visiting Scholar  | - | - | - | - | - |
-|~~2024-02-05~~  | Visiting Scholar  | - | - | - | - | - |
-|~~2024-02-12~~  | Dong Yang  | - | - | - | - | - |
-|~~2024-02-16~~  | Invited Talk (12:00 to 1:00 pm) | - | - | - | - | - |
-|~~2024-02-19~~  | -   | - | - | - | - | - |
-|~~2024-02-26~~  | Haijing Zhang   | - | - | - | - | - |
-|~~2024-03-04~~  | Qasim Zia   | - | - | - | - | - |
-|~~2024-03-11~~  | Holiday: Spring Break   | - | - | - | - | - |
-|~~2024-03-18~~  | Dong Yang   | - | - | - | - | - |
-|2024-03-25  | Qasim Zia   | - | - | - | - | - |
-|2024-04-01  | Qasim Zia  | - | - | - | - | - |
-|2024-04-08  | Kaiyang Li    | - | - | - | - | - |
-|2024-04-15  | Prajwal Panzade  | - | - | - | - | - |
-|2024-04-22  | Haijing Zhang  | - | - | - | - | - |
-|2024-04-29  | Haijing Zhang      | - | - | - | - | - |
+|2024-04-02  | Rahanatu Suleiman   |Paper Summary| - |
+|2024-04-09  | Devere | - | - |
+|2024-04-16  | Gabriel   | - | - | 
+|2024-04-23  | Darrel  | - | - |
+|2024-04-30  | Sam LaPree | - | - | 
+|2024-05-07  |       | - | - |
